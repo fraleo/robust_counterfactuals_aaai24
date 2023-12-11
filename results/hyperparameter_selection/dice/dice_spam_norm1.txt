@@ -1,0 +1,1 @@
+Algorithm: dice. Valid cfx: 48/50. Avg k-distance: 7.8322309342313785. Avg k-diversity: 8.619797975513697. Avg match-distance: 3.7320111084834324. Avg match-b-distance: 7.122753371382411. Avg time: 188.94667090972266.

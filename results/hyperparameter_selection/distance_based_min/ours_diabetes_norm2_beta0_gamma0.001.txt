@@ -1,0 +1,1 @@
+Algorithm: ours. Valid cfx: 50/50. Avg k-distance: 0.5212484911509384. Avg k-diversity: 0.5615743671861566. Avg match-distance: 0.1028839854580645. Avg match-b-distance: 0.2763762425820356. Avg time: 0.05347891807556152.
