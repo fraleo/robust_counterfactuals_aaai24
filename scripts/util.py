@@ -423,7 +423,7 @@ class Stats:
     def evaluate_explanations(self, x, x_noisy, cfx, cfx_noisy, norm):
 
 
-        if len(cfx) == 0 or len(cfx_noisy) == 0 is None:
+        if len(cfx) == 0 or len(cfx_noisy) == 0 :
             self.results[self.current_key] = None
         else:
 
